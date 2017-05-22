@@ -15,7 +15,7 @@
   },
   "license": "Apache-2.0",
   "dependencies": {
-    "iotivity-node": "^1.2.0-1",
+    "iotivity-node": "^1.2.0-2",
     "express": "*",
     "websocket": "*"
  }
